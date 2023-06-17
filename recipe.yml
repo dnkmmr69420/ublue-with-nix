@@ -88,5 +88,11 @@ firstboot:
   # the "just setup-flatpaks" command from our "custom.just" template file.
   # This is just an example selection:
   flatpaks:
-    - io.github.celluloid_player.Celluloid
-    - org.kde.krita
+    - org.mozilla.firefox
+    - org.gtk.Gtk3theme.adw-gtk3
+    - org.gtk.Gtk3theme.adw-gtk3-dark
+    - com.github.GradienceTeam.Gradience
+    - com.github.marhkb.Pods
+    - org.libreoffice.LibreOffice
+    - com.mattjakeman.ExtensionManager
+    - com.github.tchx84.Flatseal
